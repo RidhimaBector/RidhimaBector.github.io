@@ -36,11 +36,11 @@ disqus: mydisqus
 
 # if you don't have any of social below, comment the line
 facebook: ridhima.bector
-twitter: mytwitter
+# twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://www.linkedin.com/in/ridhima-bector-81a310113/
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
